@@ -1,8 +1,4 @@
 qqq
 www
-<<<<<<< HEAD
-rrr
-=======
-eee
->>>>>>> feature1
 ttt
+ggg
